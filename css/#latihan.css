@@ -1,0 +1,83 @@
+.body {
+    font: 16px/28px;
+    background-color: #eaeaea;
+    color: #333;
+}
+
+.container {
+    width: 900px;
+    background-color: white;
+    margin: auto;
+}
+
+.header {
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.header .judul {
+    font-size: 34px;
+    font-weight: bold;
+}
+
+.header ul li {
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.header a{
+    text-decoration: none;
+    color: coral;
+    padding: 5px;
+}
+
+.header a:hover {
+    background-color: lightskyblue;
+    color: white;
+}
+
+.hero {
+    height: 400px;
+    background-image: url(/img/jerome\ polin.jpeg);
+    background-size: cover;
+    background-position: 0 0;
+    border-top: 5px solid lightskyblue;
+    border-bottom: 5px solid salmon;
+}
+
+.content {
+    padding: 20px;
+}
+
+.content h2 {
+     font-size: 20px;
+     font-weight: bold;
+}
+
+.content .penulis {
+    font-size: 11px;
+    margin-top: -7px;
+}
+
+.content a {
+    text-decoration: none;
+    color: salmon;
+}
+
+.container p {
+    margin-bottom: 20px;
+    font-size: justify;
+}
+
+.footer {
+    background-color: black;
+}
+
+.footer .copy {
+    font-size: 12px;
+    margin: auto;
+    text-align: center;
+    color: #eaeaea;
+}

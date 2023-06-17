@@ -1,0 +1,14 @@
+div {
+    width: 600px;
+}
+
+.satu {
+    background-color: coral;
+    padding: 20px;
+    border: solid black;
+}
+
+.dua {
+    background-color: yellow;
+    padding: 30px;
+}
